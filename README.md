@@ -1,11 +1,32 @@
 Java Training
 
 Chapter 1 - 
-	-- Java class structure
-		-- Classes
-			* Classes have thier own properties for thier unique representation
-			* We can identify them as its attribute and its behaviours.
-			* Technically we call them fields(variables) and methods
+	-- Classes
+		* Class srtucture
+		* Fields / Attributes
+		* Methods / Behaviours
+		
+	-- Main Method
+		* Main key words of the main method
+		* String args[] explained
+
+	-- Data Types
+		* Primitive Data Types
+			* byte
+			* short
+			* int
+			* long
+			* float
+			* double
+			* boolean
+			* char
+		-----------------------------
+		* Non-Primitive Data types
+		* Type casting
+			* Widening Casting (Automatic casting)
+			* Narrowing Casting (Manual casting)
+	-- Java Operators
+
 
 
 

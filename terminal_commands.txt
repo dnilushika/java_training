@@ -1,0 +1,11 @@
+ls                          - list all files and directories
+ls -a                       - list all files and directories with hiddien items
+ls -l                       - list all files and directories with file permission user and groups
+ls -la                      - list all files and directories with file permission user and groups with hidden items
+
+pwd                         - print current directory path
+
+rm (target file path)        - remove target file         - 
+rm -rf (target directory path)   - remove a direcyory recursively
+
+mv (file/directory path) (target file/directory path) - move or rename file or directory
