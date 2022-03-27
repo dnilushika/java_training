@@ -1,0 +1,48 @@
+Operators are used to perform operations on variables and values.
+
+Java divides the operators into the following groups:
+
+Arithmetic operators (Done)
+Assignment operators (Done)
+Unary Operators
+Bitwise operators
+Logical operators
+Relations Operators
+Comparison operators
+Ternary operators
+Shift operators
+
+
+
+Arithmetic Operators
+Arithmetic operators are used to perform common mathematical operations.
+
+Operator	      Name	                Description	                                example
++	            Addition	            Adds together two values	                 x + y	
+-	            Subtraction	            Subtracts one value from another	         x - y	
+*	            Multiplication	        Multiplies two values	                     x * y	
+/	            Division	            Divides one value by another	             x / y	
+%	            Modulus	                Returns the division remainder	             x % y	
+++	            Increment	            Increases the value of a variable by 1	     x++ | ++x
+--	            Decrement	            Decreases the value of a variable by 1       x-- |	--x
+
+
+#############################################################33
+
+Operator	     Example	       Same As	
+=	              x = 5	            x = 5	
++=	              x += 3	        x = x + 3	
+-=	              x -= 3	        x = x - 3	
+*=	              x *= 3	        x = x * 3	
+/=	              x /= 3	        x = x / 3	
+%=	              x %= 3	        x = x % 3	
+
+Bitwise
+&=	              x &= 3	        x = x & 3
+|=	              x |= 3	        x = x | 3	
+^=	              x ^= 3	        x = x ^ 3	
+>>=	              x >>= 3	        x = x >> 3	
+<<=	              x <<= 3	        x = x << 3
+
+
+
